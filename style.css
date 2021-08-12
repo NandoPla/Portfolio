@@ -1,0 +1,30 @@
+.container{
+
+    margin-top: 20px;
+    width: 80%;
+    height: auto;
+}
+
+h1{
+    
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+
+    display: flex;
+    justify-content: center;
+}
+
+.titulo{
+
+    margin-top: 50px;
+}
+
+.subtitulo{
+
+    margin-top: 1em;
+    color: red;
+}
+
